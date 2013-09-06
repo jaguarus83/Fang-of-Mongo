@@ -3,7 +3,7 @@ Fang of Mongo - web based user interface for MongoDB build with django and jquer
 It will allow you to explore content of mongodb with simple but (hopefully) pleasant
 user interface.
 
-Curren status:
+Current status:
 
 Fang of mongo is actually rather proof of concept for mongo ui then anything working properly.
 Expect all kinds of bugs and limitations. This is work in progress.
